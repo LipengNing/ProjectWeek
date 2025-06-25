@@ -79,7 +79,9 @@ The SlicerTMS project has been developed to predict the electric field induced b
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-TBD
+1. Integrated SimNIBS solver with SlicerTMS via rpyc and tested using real coil models and MRI data.
+2. Initialized draft script for the integration with neuronavigation.
+
 
 
 
@@ -88,8 +90,8 @@ TBD
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
+<img width="517" alt="Screenshot 2025-06-25 at 4 16 24 PM" src="https://github.com/user-attachments/assets/96b01fe8-23c9-447d-9518-d8fd7940975f" />
 
-_No response_
 
 
 
